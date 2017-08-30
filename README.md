@@ -1,6 +1,6 @@
 # PHP Output Buffer Lab
 
-This repository is a companion plugin for the [PHP Output Control and Buffer Basics lab](https://knowthecode.io/labs/php-output-control-buffer-basics).
+This repository is a companion plugin for the [PHP Output Control and Buffer Basics lab](https://knowthecode.io/labs/php-output-control-buffer-basics), one of the excellent tutorials by Tonya Mork at [KnowTheCode] (https://knowthecode.io).
 
 ## Installation
 
